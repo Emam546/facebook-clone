@@ -1,0 +1,12 @@
+.birth-date {
+    overflow: hidden;
+    float: left;
+    margin-right: 10px;
+    width: 200px;
+}
+
+.birth-date select {
+    border: 1px solid #ccc;
+    padding: 5px;
+    float: left;
+}
